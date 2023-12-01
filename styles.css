@@ -6,9 +6,9 @@
     width: 300px;
     object-fit: cover;
 }
-s
+
 .img-digitalizaai{
-    width: 350px;
+    width: 300px;
     object-fit: cover;
 }
 
@@ -53,8 +53,8 @@ s
 .vertical-line {
     border-left: 3px solid #ff6961; 
     height: 100px;  
-    margin-left: 4rem;  
-    margin-right: 4rem;
+    margin-left: 5rem;  
+    margin-right: 5rem;
 }
 
 .banner{
