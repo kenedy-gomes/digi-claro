@@ -238,6 +238,7 @@ footer p{
     box-shadow: #000000 0px 5px 15px;
 }
 
+
 .logo-empresas a{
     margin: 0rem 0rem 2rem 0rem;
 }
@@ -370,6 +371,12 @@ footer p{
         display: flex;
         gap: 1rem;
         background-color: #2167f0;
+     }
+
+     .logo-empresas img{
+        width: 300px;
+        height: 180px;
+        object-fit: cover;
      }
   
 }
